@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function Resume() {
     return (
         <div className="d-flex flex-column align-items-center" style={{ backgroundColor: "lightseagreen" }}>
@@ -16,7 +17,9 @@ function Resume() {
                     <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- Javascript</div>
                     <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- Debugging/Troubleshooting</div>
                     <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- MVC</div>
-
+                </div>
+                <div>
+                    <a href="https://drive.google.com/file/d/1IaK9ZmI63OdD_F0Ji9HNRpVJ7Xdwk3AB/view?usp=sharing">Resume PDF</a>
                 </div>
             </div>
         </div>
