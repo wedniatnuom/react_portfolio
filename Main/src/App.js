@@ -22,7 +22,6 @@ function App() {
     bgContact = "bg-info"
   }
 
-  
   return (
     <React.Fragment>
       <header>
