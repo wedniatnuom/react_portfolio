@@ -8,6 +8,7 @@ let projects = [
     {"link": "https://drive.google.com/file/d/19ukQ4ywomF-RzU89Sya8bsA0V38-SpDG/view?usp=sharing", "title": "Video: Command Line", "gitHub": "https://github.com/wedniatnuom/employee_tracker"},
     {"link": "https://notetaker722.herokuapp.com/", "title": "Note Keeper", "gitHub": "https://github.com/wedniatnuom/note_taker"},
     {"link": "https://wedniatnuom.github.io/weather_dashboard/", "title": "Weather Dashboard", "gitHub": "https://github.com/wedniatnuom/weather_dashboard"},
+    {"link": "https://mintapplication.herokuapp.com/", "title": "Mint", "gitHub": "https://github.com/bunt88/Mint"},
 ]
 
 
