@@ -13,10 +13,10 @@ function Resume() {
                 
                 <div className="d-flex flex-column align-items-left">
                     <h2 className="m-2">Proficiencies</h2>
-                    <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- React</div>
-                    <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- Javascript</div>
-                    <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- Debugging and Troubleshooting</div>
-                    <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- MVC</div>
+                    <div className="m-2 col-6 border rounded border-secondary" style={{backgroundColor: "whitesmoke"}}>- React</div>
+                    <div className="m-2 col-6 border rounded border-secondary" style={{backgroundColor: "whitesmoke"}}>- Javascript</div>
+                    <div className="m-2 col-6 border rounded border-secondary" style={{backgroundColor: "whitesmoke"}}>- Debugging and Troubleshooting</div>
+                    <div className="m-2 col-6 border rounded border-secondary" style={{backgroundColor: "whitesmoke"}}>- MVC</div>
                 </div>
                 <div>
                     <a href="https://docs.google.com/document/d/1NvvrUTeonAmeCNy3V34fMB067a9_ME41NJeDNnFh2xc/edit?usp=sharing">Resume PDF</a>
