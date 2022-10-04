@@ -3,8 +3,8 @@ import React from "react";
 
 function Resume() {
     return (
-        <div className="d-flex flex-column align-items-center" style={{ backgroundColor: "lightseagreen" }}>
-            <div className="m-4 border rounded col-8" style={{ backgroundColor: "lightgray" }}>
+        <div className="d-flex flex-column align-items-center" style={{backgroundImage: "linear-gradient(to bottom, lightblue, lightseagreen"}}>
+            <div className="m-4 border rounded col-8" style={{ backgroundImage: "linear-gradient(to bottom right, lightslategray, lightgray" }}>
                 <div className="d-flex flex-row justify-content-left">
                     <h3 className="m-2">
                         <div></div>

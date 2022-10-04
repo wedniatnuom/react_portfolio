@@ -14,8 +14,8 @@ let projects = [
 
 function Portfolio() {
     return (
-        <div className="d-flex flex-column align-items-center" style={{backgroundColor: "lightseagreen"}}>
-        <div className="d-flex flex-row align-items-center col-11 m-4 border rounded" style={{backgroundColor: "lightgray"}}>
+        <div className="d-flex flex-column align-items-center" style={{backgroundImage: "linear-gradient(to bottom, lightblue, lightseagreen"}}>
+        <div className="d-flex flex-row align-items-center col-11 m-4 border rounded" style={{backgroundImage: "linear-gradient(to bottom right, lightslategray, lightgray"}}>
             <div className="d-flex flex-row align-items-center m-4 border rounded col-4" style={{ backgroundColor: "whitesmoke", }}>
                 <div style={{fontFamily: "georgia, serif", fontSize: "24px"}}>
                     These are the projects that I have put the most work into so far. The Dungeons and Dragons App is a project that I worked on with 
