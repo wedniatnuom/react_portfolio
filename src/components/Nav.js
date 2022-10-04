@@ -9,23 +9,23 @@ function Nav(props) {
     let bgContact = "";
   
     if (props.page === 'aboutMe') {
-      bgAboutMe = "bg-info"
+      bgAboutMe = "bg-info rounded border border-dark"
     } else if (props.page === 'portfolio') {
-      bgPortfolio = "bg-info"
+      bgPortfolio = "bg-info rounded border border-dark"
     } else if (props.page === 'resume') {
-      bgResume = "bg-info"
+      bgResume = "bg-info rounded border border-dark"
     } else if (props.page === 'contact') {
-      bgContact = "bg-info"
+      bgContact = "bg-info rounded border border-dark"
     }
 
     return (
-<nav className="d-flex" style={{height: "50px"}}>
-          <div className="d-flex align-items-center col-12 justify-content-around">
-          <h1 className="m-2" style={{fontFamily: "georgia, serif"}}>Jeremy Johnson</h1>
-            <div className={bgAboutMe} onClick={() => props.setPage('aboutMe')} >About Me</div>
-            <div className={bgPortfolio} onClick={() => props.setPage('portfolio')}>Portfolio</div>
-            <div className={bgResume} onClick={() => props.setPage('resume')}>Resume</div>
-            <div className={bgContact} onClick={() => props.setPage('contact')}>Contact</div>
+<nav className="d-flex" >
+          <div className="m-1 d-flex align-items-center col-12 justify-content-around">
+            <h1 className="m-1" style={{fontFamily: "georgia, serif"}}>Jeremy Johnson</h1>
+            <div className={bgAboutMe} onClick={() => props.setPage('aboutMe')} >-About Me-</div>
+            <div className={bgPortfolio} onClick={() => props.setPage('portfolio')}>-Portfolio-</div>
+            <div className={bgResume} onClick={() => props.setPage('resume')}>-Resume-</div>
+            <div className={bgContact} onClick={() => props.setPage('contact')}>-Contact-</div>
           </div>
         </nav>
     );

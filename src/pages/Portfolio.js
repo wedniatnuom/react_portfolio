@@ -16,7 +16,7 @@ function Portfolio() {
     return (
         <div className="d-flex flex-column align-items-center" style={{backgroundColor: "lightseagreen"}}>
         <div className="d-flex flex-row align-items-center col-11 m-4 border rounded" style={{backgroundColor: "lightgray"}}>
-            <div className="d-flex flex-row align-items-center m-4 border rounded col-4" style={{ backgroundColor: "whitesmoke", height: "300px"}}>
+            <div className="d-flex flex-row align-items-center m-4 border rounded col-4" style={{ backgroundColor: "whitesmoke", }}>
                 <div style={{fontFamily: "georgia, serif", fontSize: "24px"}}>
                     These are the projects that I have put the most work into so far. The Dungeons and Dragons App is a project that I worked on with 
                     as a group. The two videos contain a walk though of a couple backend applications that I built. The other three are applications that 

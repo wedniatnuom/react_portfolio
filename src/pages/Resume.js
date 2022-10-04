@@ -15,7 +15,7 @@ function Resume() {
                     <h2 className="m-2">Proficiencies</h2>
                     <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- React</div>
                     <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- Javascript</div>
-                    <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- Debugging/Troubleshooting</div>
+                    <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- Debugging and Troubleshooting</div>
                     <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- MVC</div>
                 </div>
                 <div>
