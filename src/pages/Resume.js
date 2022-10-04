@@ -19,7 +19,7 @@ function Resume() {
                     <div className="m-2 col-6 border rounded" style={{backgroundColor: "whitesmoke"}}>- MVC</div>
                 </div>
                 <div>
-                    <a href="https://drive.google.com/file/d/1IaK9ZmI63OdD_F0Ji9HNRpVJ7Xdwk3AB/view?usp=sharing">Resume PDF</a>
+                    <a href="https://docs.google.com/document/d/1NvvrUTeonAmeCNy3V34fMB067a9_ME41NJeDNnFh2xc/edit?usp=sharing">Resume PDF</a>
                 </div>
             </div>
         </div>
