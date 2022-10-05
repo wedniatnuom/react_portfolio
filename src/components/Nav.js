@@ -22,10 +22,10 @@ function Nav(props) {
 <nav className="d-flex" >
           <div className="m-1 d-flex align-items-center col-12 justify-content-around">
             <h1 className="m-1" style={{fontFamily: "georgia, serif"}}>Jeremy Johnson</h1>
-            <div className={bgAboutMe} onClick={() => props.setPage('aboutMe')} >-About Me-</div>
-            <div className={bgPortfolio} onClick={() => props.setPage('portfolio')}>-Portfolio-</div>
-            <div className={bgResume} onClick={() => props.setPage('resume')}>-Resume-</div>
-            <div className={bgContact} onClick={() => props.setPage('contact')}>-Contact-</div>
+            <div className={bgAboutMe} style={{cursor: "pointer"}} onClick={() => props.setPage('aboutMe')} >-About Me-</div>
+            <div className={bgPortfolio} style={{cursor: "pointer"}} onClick={() => props.setPage('portfolio')}>-Portfolio-</div>
+            <div className={bgResume} style={{cursor: "pointer"}} onClick={() => props.setPage('resume')}>-Resume-</div>
+            <div className={bgContact} style={{cursor: "pointer"}} onClick={() => props.setPage('contact')}>-Contact-</div>
           </div>
         </nav>
     );
