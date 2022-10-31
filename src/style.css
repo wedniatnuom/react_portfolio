@@ -1,0 +1,67 @@
+.navwrapper div:hover{
+    font-weight: 700;
+}
+
+.navwrapper div.text-white:hover{
+    font-weight: unset;
+}
+
+.leftColumn{
+    border-left: 12px solid #0f074d;
+    border-radius: 20px;
+}
+
+.profileimage{
+    border-radius: 15px 50px 30px;
+    /* background: #2121ad; */
+    background: #4f7b12;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;
+}
+
+.navbtn{
+    /* background: #73AD21; */
+    background: #4f7b12;
+    border-radius: 15px;
+}
+
+.aboutMe{
+    font-size: 100px;
+    color: #0f074d;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+.brand{
+    border:1px solid #0f074d;
+    border-radius: 10px;
+}
+
+.personal{
+    margin-left: 40px;
+}
+
+.mainbg{
+    min-height: calc(100vh - 120px);
+}
+
+.skills{
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.skillsList{
+    font-size: 21px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 20px;
+    border-left: 5px solid #4f7b12;
+    border-radius: 10px
+}
+
+.footer{
+    height: 40px;
+
+}
