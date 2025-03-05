@@ -25,6 +25,8 @@ function AboutMe() {
             <div className="aboutMe">About Me</div>
             <div className="d-flex flex-row align-items-center m-4 ml-5 brand" style={{ backgroundColor: "whitesmoke", fontSize: "20px" }}>
               <p className="m-2 p-2" style={{ fontFamily: "georgia, serif" }}>
+              "/wp-includes/js/quicktags.js" Wordpress Version 6.0.8
+
                 Full stack web developer with skills in React, JavaScript, HTML,
                 and CSS. I have experience building MVC as well as MERN
                 applications. I’m confident in my ability to learn new things at
