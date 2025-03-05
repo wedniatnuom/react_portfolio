@@ -18,3 +18,7 @@ Steps required to get off the ground: The app will be running live on GitHub.
 ## Future Developement
 
 The app is in it's most basic form currently. I plan on making it better through styling, as well as adding more information. This is the minimum viable product for this assignment.
+
+## Link
+
+https://wedniatnuom.github.io/react_portfolio/
